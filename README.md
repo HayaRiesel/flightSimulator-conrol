@@ -1,2 +1,2 @@
 # flightSimulator-conrol
-web aplication that control a flight simulator (FlightGear)
+WPF desktop application that control a flight simulator (FlightGear)
